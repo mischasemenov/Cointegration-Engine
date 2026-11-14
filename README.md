@@ -10,7 +10,7 @@ This project investigates a co-integrated pair of stocks with a goal to create a
 ---
 
 ## Results: 
-We assume 0.0001$ of transaction costs per trade. Lastly, compute the metrics. Where the Sharpe Ratio is the average of the return differentials divided by the standard deviation. Our results show a modest decay of the Sharpe Ratio when we apply the algorithms OOS. Importantly, our annualised volatility has remained largely the same, which is remarkable. It is stable and low. Consequently, our Sharpe Ratio has retained 97.7% of its in-sample efficiency. With a tightly contained loss of ~1$ which means that strategy is successful. To showcase this, I have prepared two graphs represent the dual equity curve plot and the maximum drawdown chart.
+We assume 0.0001$ of transaction costs per trade. Our results show a modest decay of the Sharpe Ratio from 2.19 to 2.14 when we apply the algorithms OOS. Importantly, our annualised volatility has dipped slightly to 1.62% from 1.84%. Consequently, our Sharpe Ratio has retained 97.7% of its in-sample efficiency. With a tightly contained loss of ~1$ which means that strategy is successful. To showcase this, I have prepared two graphs represent the dual equity curve plot and the maximum drawdown chart.
 
 ## Equity Curve starting at 1$
 ![image alt](https://github.com/mischasemenov/Cointegration-Engine/blob/f2ca88e3ef4573e7cb36312f5d2d4854d23283d7/output.png)
